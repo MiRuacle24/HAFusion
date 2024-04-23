@@ -16,9 +16,9 @@ Authors: Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karuna
 </p>
 
 <p align="center"><strong>Prediction Accuracy Results When Powering Existing Models with Our DAFusion Module (NYC)</strong></p>
-<p align="center">
-    <img src="Images/DAFusion.png" style="max-width: 60%;"> 
-</p>
+<div align="center">
+    <img src="Images/DAFusion.png" style="max-width: 80%;"> 
+</div>
 
 ## Requirements
 - Python 3.8.18
