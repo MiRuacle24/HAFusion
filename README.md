@@ -6,7 +6,7 @@ Authors: Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karuna
 
 ## Model Structure
 <p align="center">
-    <img src="Images/model structure.png" width="800">
+    <img src="Images/model structure.png" width="600">
 </p>
 
 ## Experiments
