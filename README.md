@@ -6,18 +6,18 @@ Authors: Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karuna
 
 ## Model Structure
 <p align="center">
-    <img src="Images/model structure.png" width="1000">
+    <img src="Images/model structure.png" width="800">
 </p>
 
 ## Experiments
 <p align="center"><strong>Overall Prediction Accuracy Results</strong></p>
 <p align="center">
-    <img src="Images/Experiment.png" width="1000"> 
+    <img src="Images/Experiment.png" width="800"> 
 </p>
 
 <p align="center"><strong>Prediction Accuracy Results When Powering Existing Models with Our DAFusion Module (NYC)</strong></p>
 <div align="center">
-    <img src="Images/DAFusion.png" width="1000"> 
+    <img src="Images/DAFusion.png" width="800"> 
 </div>
 
 ## Requirements
