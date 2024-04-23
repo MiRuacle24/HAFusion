@@ -17,7 +17,7 @@ Authors: Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karuna
 
 <p align="center"><strong>Prediction Accuracy Results When Powering Existing Models with Our DAFusion Module (NYC)</strong></p>
 <div align="center">
-    <img src="Images/DAFusion.png" style="max-width: 10%;"/> 
+    <img src="Images/DAFusion.png" style="max-width: 80%;"/> 
 </div>
 
 ## Requirements
@@ -25,20 +25,14 @@ Authors: Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karuna
 - `pip install -r requirements.txt`
 
 ## Quick Start
-To train and test HAFusion on NYC dataset:
+To train and test HAFusion on a specific city and a specific downstream task:
+
+- CITY_NAME: <strong>NY</strong> or <strong>Chi</strong> or <strong>SF</strong>
+- TASK_NAME: <strong>checkIn</strong> or <strong>crime</strong> or <strong>serviceCall</strong>
 
 ```bash
-python main_NY.py
+python HAFusion_train.py --city CITY_NAME --task TASK_NAME
 ```
 
-To train and test HAFusion on Chicago dataset:
-
-```bash
-python main_Chi.py
-```
-
-To train and test HAFusion on San Francisco dataset:
-
-```bash
-python main_SF.py
-```
+## Contact
+Email fengzes@student.unimelb.edu.au if you have any queries.
