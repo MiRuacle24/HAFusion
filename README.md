@@ -5,9 +5,12 @@ This is a pytorh implementation of the [HAFusion paper](https://arxiv.org/abs/23
 Authors: Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karunasekera, and Egemen Tanin
 
 ## Model Structure
+ <center><img src="Images/model structure.png" width='600px' > </center>
 
 ## Experiments
-![Experiments](Images/Experiment.png)
+<p align="center"><strong>Overall Prediction Accuracy Results</strong></p>
+ <center><img src="Images/Experiment.png" width='600px' > </center>
+
 ## Requirements
 - Python 3.8.18
 - `pip install -r requirements.txt`
