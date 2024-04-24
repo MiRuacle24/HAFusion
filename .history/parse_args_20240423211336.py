@@ -16,7 +16,7 @@ parser.add_argument('--landUse_simi',         default='/landUse_simi.npy')
 parser.add_argument('--embedding_size', type=int,    default=144)
 parser.add_argument('--learning_rate',  type=float,  default=0.0005)
 parser.add_argument('--weight_decay',   type=float,  default=5e-4)
-parser.add_argument('--epochs',         type=int,    default=2000)
+parser.add_argument('--epochs',         type=int,    default=31)
 parser.add_argument('--dropout',        type=float,  default=0.1)
 
 args = parser.parse_args()
