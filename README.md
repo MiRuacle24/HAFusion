@@ -4,6 +4,15 @@ This is a pytorh implementation of the [HAFusion paper](https://arxiv.org/abs/23
 
 Authors: Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karunasekera, and Egemen Tanin
 
+```bash
+@inproceedings{sun2024urban,
+  title={Urban Region Representation Learning with Attentive Fusion},
+  author={Sun, Fengze and Qi, Jianzhong and Chang, Yanchuan and Fan, Xiaoliang and Karunasekera, Shanika and Tanin, Egemen},
+  booktitle={2024 IEEE 40th International Conference on Data Engineering (ICDE)},
+  year={2024},
+  organization={IEEE}
+}
+```
 ## Model Structure
 <p align="center">
     <img src="Images/model structure.png" width="700">
