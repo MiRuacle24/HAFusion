@@ -6,10 +6,12 @@ Authors: Fengze Sun, Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karuna
 
 ```bash
 @inproceedings{sun2024urban,
-  title={Urban Region Representation Learning with Attentive Fusion},
+  title={Urban region representation learning with attentive fusion},
   author={Sun, Fengze and Qi, Jianzhong and Chang, Yanchuan and Fan, Xiaoliang and Karunasekera, Shanika and Tanin, Egemen},
-  booktitle={IEEE 40th International Conference on Data Engineering (ICDE)},
-  year={2024}
+  booktitle={2024 IEEE 40th International Conference on Data Engineering (ICDE)},
+  pages={4409--4421},
+  year={2024},
+  organization={IEEE}
 }
 ```
 ## Model Structure
